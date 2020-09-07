@@ -1,0 +1,13 @@
+.flexbox-container {
+    display: flex;
+    flex-direction: row;
+}
+
+.suffix{
+    padding-left: 20px;
+}
+
+.box{
+    border-style: solid;
+    padding: 10px;
+}
